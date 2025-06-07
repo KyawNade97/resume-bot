@@ -1,142 +1,40 @@
-John Doe
-Software Engineer
-📍 123 Tech Street, San Francisco, CA 94107
-☎️ (123) 456-7890
-✉️ john.doe@email.com
-LinkedIn | GitHub
-Visa Status: Full working rights in the US without Visa sponsorship
+Kyaw Nade Aung
+Assistant Product Manager | User Experience Focus | Transforming Vision to Action
+kyawnadi2018@gmail.com ❖ (+669) 305-02588 ❖ Phra Khanong, Bangkok, 10260
 
-Professional Summary
-Innovative and results-driven Software Engineer with 5+ years of experience in developing and delivering high-quality web and mobile applications. Adept at full-stack development, cloud computing, and DevOps practices, with a proven ability to lead cross-functional teams in Agile environments. Passionate about building scalable and efficient solutions that solve real-world problems and enhance user experiences. Recognized for excellent problem-solving skills and a commitment to continuous learning.
+WORK EXPERIENCE 
 
-Technical Skills
+JOBDOH 									          	  	     Bangkok, Thailand
+Launch Team Lead at DocDocDash (Remote)						      Jul 2024 - Present
+▪	Defined MVP through user surveys and interviews, conducted user journey mapping and 150+ user testing sessions for a health-tech SAAS product in a start-up environment
+▪	Led cross-functional coordination with tech team to refine UI/UX flows and improve user experience
+▪	Built wireframe using Figma, conducted usability testing, and iterated design flows
+▪	Wrote user stories clearly for new features based on user feedbacks and business needs
+▪	Defined acceptance criteria, collaborated with tech team to ensure alignment across development cycles
+▪	Developed bilingual marketing materials using Canva, AI tools such as Elevenlabs and crafted engaging contents across Facebook and Instagram to drive brand awareness
+Toyota Myanmar Sales								                 Yangon, Myanmar
+Senior Field Operations Coordinator (Aftersales)						 Jun 2023 – Apr 2024
+Field Operations Coordinator (Aftersales)							Nov 2020 – Jun 2023
+▪	Defined and documented product requirements and feature specifications for a point-based rewards app called T-Subuu based on the insights from Toyota Myanmar customers and internal stakeholders
+▪	Ensured clarity through detailed acceptance criteria and collaborated closely with the third-party tech vendor to deliver a user-friendly and efficient mobile experience
+▪	Conducted internal UAT for both customer-facing app and dealer’s interface
+▪	Acted as the business-technology bridge across stakeholders to align on digital transformation goals
+▪	Developed training materials such as catalogs and demo videos of using T-Subuu App
+▪	Led the successful launch and implementation of the T-Subuu application at two pilot dealerships, ensuring smooth adoption and integration. Within the first three months of app launch,
+o	Successfully achieved 1000+ users, increased customer retention rate by 20% and boosted average CPUS sales by 105%
 
-    Programming Languages: Python, JavaScript, TypeScript, Java, C++, SQL, Go
+EDUCATION 
+	
+Yangon Technological University 					                   		      Yangon, Myanmar
+Bachelor of Engineering, (Mechatronic)					   		Dec 2013 – Mar 2020
+▪	4.2/5.0 CGPA 
+▪	Founder of Anime club, Participated in Major Basketball Tournament and Marathon (YTU RUN)
 
-    Frameworks & Libraries: React, Angular, Node.js, Express.js, Django, Flask, Spring Boot
+Courses & Certifications
 
-    DevOps & Cloud: AWS (EC2, S3, Lambda, RDS), Azure, Docker, Kubernetes, Terraform, CI/CD pipelines
+n	Coursera: Google Professional Project Manager (Mar 2025)
+n	Coursera: Google AI Essentials (Dec 2024)
+n	JPMorgan Chase & Co.: Agile PM Job Simulation (May 2024)
+SKILLS 
 
-    Databases: MySQL, PostgreSQL, MongoDB, Redis
-
-    Tools & Platforms: Git, JIRA, Jenkins, VS Code, IntelliJ IDEA, Elasticsearch, Prometheus
-
-Professional Experience
-
-Senior Software Engineer
-NextGen Tech Solutions — San Francisco, CA
-March 2022 – Present
-
-    Architected and developed scalable microservices, improving application performance by 40%.
-
-    Designed and implemented GraphQL APIs to enhance data query efficiency and flexibility.
-
-    Migrated on-premises applications to AWS, leveraging cloud-native solutions to reduce operational costs by 25%.
-
-    Led a team of five developers to successfully deliver a cross-platform mobile application for a high-profile client.
-
-    Conducted technical interviews and mentored junior engineers to foster team growth.
-
-Key Achievements:
-
-    Reduced system downtime by implementing proactive monitoring tools and incident response workflows.
-
-    Received the "Innovator of the Year" award for introducing a predictive analytics feature that boosted customer retention.
-
-Software Engineer
-Tech Innovations Inc. — San Francisco, CA
-March 2020 – February 2022
-
-    Developed and maintained full-stack applications, enhancing system performance by 30%.
-
-    Integrated third-party APIs, including payment gateways and geolocation services, to expand application capabilities.
-
-    Led the migration of legacy systems to microservices, reducing deployment time by 40%.
-
-    Collaborated with designers and product managers to deliver user-focused solutions.
-
-Key Achievements:
-
-    Spearheaded the creation of a real-time analytics dashboard, increasing user engagement by 25%.
-
-    Named "Employee of the Quarter" for exceptional contributions to critical project launches.
-
-Junior Software Developer
-Innovate Solutions — Palo Alto, CA
-July 2018 – February 2020
-
-    Assisted in developing responsive web applications using React and Node.js.
-
-    Conducted code reviews and implemented unit testing frameworks, reducing bugs by 20%.
-
-    Optimized database queries and contributed to schema design for improved performance.
-
-Key Achievements:
-
-    Reduced system downtime by 15% through proactive monitoring and efficient issue resolution.
-
-Education
-Bachelor of Science in Computer Science
-University of California, Berkeley — Graduated: May 2018
-
-    Relevant Coursework: Data Structures & Algorithms, Software Engineering, Cloud Computing, Artificial Intelligence
-
-    GPA: 3.8
-
-Certifications
-
-    AWS Certified Solutions Architect – Associate
-
-    Certified Kubernetes Administrator (CKA)
-
-    React.js Developer Certification
-
-    Advanced Java Programming Certification
-
-Projects
-
-    E-Commerce Platform (GitHub)
-    Built a full-stack e-commerce website featuring real-time product filtering, user authentication, and payment integration.
-
-    Task Management App (GitHub)
-    Developed a collaborative task management app with React front-end and Node.js back-end.
-
-    Real-Time Chat Application
-    Designed a secure and scalable chat application using WebSocket and Firebase, enabling real-time communication for users.
-
-    IoT Home Automation System
-    Created an IoT-based system to monitor and control home appliances using Python and Raspberry Pi.
-
-Languages
-
-    English: Native
-
-    Spanish: Proficient
-
-    French: Intermediate
-
-    Mandarin: Beginner
-
-Hobbies & Interests
-
-    Contributing to open-source projects
-
-    Exploring AI and machine learning innovations
-
-    Mentoring aspiring developers
-
-    Hiking and outdoor photography
-
-    Playing chess and participating in local tournaments
-
-Awards & Recognitions
-
-    Innovator of the Year – NextGen Tech Solutions (2023)
-
-    Employee of the Quarter – Tech Innovations Inc. (2021)
-
-    Winner – Bay Area Hackathon (2019): Created a predictive analytics tool for the healthcare industry.
-
-    Dean’s Honor List – University of California, Berkeley (2017 & 2018)
-
-
+Project management, PM tools (JIRA, Asana), product management, data analysis (advanced Excel), MS office applications, SOP creation, presentation and reporting, KPI management, UX research, wireframing, market research 
